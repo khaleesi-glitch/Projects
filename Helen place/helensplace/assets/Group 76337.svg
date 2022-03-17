@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="396" height="455.946" viewBox="0 0 396 455.946">
+  <g id="Group_76337" data-name="Group 76337" transform="translate(-140 -493)">
+    <g id="Group_76336" data-name="Group 76336">
+      <rect id="Rectangle_821" data-name="Rectangle 821" width="396" height="176" rx="5" transform="translate(140 493)" fill="#ffe2ec"/>
+      <text id="Unit_39_228_Vulture_Street_South_Brisbane_Qld_4101" data-name="Unit 39228 Vulture StreetSouth Brisbane Qld 4101" transform="translate(193 524.5)" font-size="24" font-family="Poppins-Regular, Poppins"><tspan x="0" y="25">Unit 39</tspan><tspan x="0" y="60">228 Vulture Street</tspan><tspan x="0" y="95">South Brisbane Qld </tspan><tspan x="0" y="130">4101</tspan></text>
+    </g>
+    <path id="Path_1112" data-name="Path 1112" d="M-2108.046,669V873.924h-109.4" transform="translate(2446.046)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Icon_material-location-on" data-name="Icon material-location-on" d="M48.975,3A41.445,41.445,0,0,0,7.5,44.475C7.5,75.581,48.975,121.5,48.975,121.5S90.45,75.581,90.45,44.475A41.445,41.445,0,0,0,48.975,3Zm0,56.288A14.813,14.813,0,1,1,63.787,44.475,14.818,14.818,0,0,1,48.975,59.288Z" transform="translate(156.5 827.446)" fill="#ff92b9"/>
+  </g>
+</svg>
